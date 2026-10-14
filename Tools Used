@@ -1,0 +1,5 @@
+Tools used:
+Background: feh
+exec --no-startup-id feh --bg-scale "path to picture"
+
+App Launcher: dmenu
