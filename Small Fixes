@@ -1,0 +1,3 @@
+Aux port / audio:
+pavucontrol:
+exec -no--startup-id systemctl --user start pipewire pipewire-pulse wireplumber
